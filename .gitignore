@@ -21,4 +21,3 @@
 healthcheck.tf
 cloudwatch_alarms.tf
 drt_role.tf
-drt_proactive.tf
