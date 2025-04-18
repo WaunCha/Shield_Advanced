@@ -1,0 +1,24 @@
+#  Local .terraform directories
+**/.terraform/*
+**/*.zip
+ 
+# .tfstate files
+*.tfstate
+*.tfstate.*
+ 
+# .tfvars files
+*.tfvars
+.idea
+*.iml
+.env
+.aws_credentials
+.bin
+ 
+.DS_Store
+ 
+.vscode/
+ 
+healthcheck.tf
+cloudwatch_alarms.tf
+drt_role.tf
+drt_proactive.tf
