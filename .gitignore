@@ -20,4 +20,3 @@
  
 healthcheck.tf
 cloudwatch_alarms.tf
-drt_role.tf
